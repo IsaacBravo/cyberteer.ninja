@@ -11,9 +11,14 @@ What can you find in this repository?
 We believe that our methodology should be open to all who would like to create a similar introduction into a topic of their own.
 The group project is the result of a collaborative effort of 5 master's students, in partial fulfillment of the requirements of the "Introduction to Politics, Technology and Sustainability" class at the Bavarian School of Public Policy, Technical University of Munich.
 
-### Authors:
+## Authors:
 Geoffrey Hubbard \
-Marcel Schneuer \
-Tomas Bueno dos Santos \
+[Marcel Schneuer](https://github.com/ungeschneuer.de) \
+[Tomas Bueno dos Santos](https://github.com/Tomas-Bueno-Momcilovic) \
 Zafer Dogukan Cincil \
 Isaac Bravo
+
+## Static Website
+
+The website and its assets is also archived under the branch `static_page` and can be viewed under https://isaacbravo.github.io/cyberteer.ninja/
+
