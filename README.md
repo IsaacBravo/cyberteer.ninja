@@ -13,7 +13,7 @@ The group project is the result of a collaborative effort of 5 master's students
 
 ## Authors:
 Geoffrey Hubbard \
-[Marcel Schneuer](https://github.com/ungeschneuer.de) \
+[Marcel Schneuer](https://github.com/ungeschneuer) \
 [Tomas Bueno dos Santos](https://github.com/Tomas-Bueno-Momcilovic) \
 Zafer Dogukan Cincil \
 Isaac Bravo
