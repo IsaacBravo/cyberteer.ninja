@@ -1,4 +1,4 @@
-### Welcome to cyberteer.ninja!
+# Welcome to cyberteer.ninja!
 
 The website (https://cyberteer.ninja/) is an academic introduction into the reasons and methods behind outsourcing of state policy goals to non-state actors in the cyberspace. 
 It is meant to serve as a good starting point for all researchers who would like to understand the subject of cyber non-state actors better. It also fulfills the role of a clearing house for much of the existing research on the topic that can be accessed online. The website content is also available in PDF eBook format.
