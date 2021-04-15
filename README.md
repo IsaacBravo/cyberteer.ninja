@@ -20,5 +20,5 @@ Isaac Bravo
 
 ## Static Website
 
-The website and its assets is also archived under the branch `static_page` and can be viewed under https://isaacbravo.github.io/cyberteer.ninja/
+The website and its assets are also archived under the branch `static_page` and can be viewed under https://isaacbravo.github.io/cyberteer.ninja/
 
